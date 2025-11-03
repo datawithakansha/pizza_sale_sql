@@ -2,7 +2,7 @@
 
 ### 📊 *Turning Data into Delicious Insights with SQL*
 ---
-📄 [Click here to view the full presentation (PDF)](https://github.com/datawithakansh/pizza_sale_sql/blob/main/presentation/pizza_sales_sql_presentation.pdf)
+🎥 [View Full SQL Presentation on Google Drive] https://drive.google.com/file/d/151fsLkXNKWmJT89NRsQiZXX7MiXCKMGP/view?usp=sharing
 
 ## 📘 Project Overview
 This project analyzes pizza sales data using **PostgreSQL** to uncover insights into customer behavior, product performance, and revenue patterns.  
