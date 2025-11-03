@@ -42,7 +42,6 @@ It explores trends in sales, pizza popularity, and overall business performance 
 | File | Description |
 |------|--------------|
 | `pizza_sales_sql_presentation.pdf` | Full project slides with visuals and queries |
-| `pizza_sales_queries.sql` | SQL file containing all queries |
 | `pizza_sales_insights.txt` | Summary of findings |
 | `README.md` | Project overview and documentation |
 
