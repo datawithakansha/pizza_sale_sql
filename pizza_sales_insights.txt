@@ -1,0 +1,53 @@
+
+🍕 PIZZA SALES SQL PROJECT – BUSINESS INSIGHTS
+
+------------------------------------------------------------
+🔍 1. TOTAL ORDERS & REVENUE
+------------------------------------------------------------
+- The dataset showed a strong overall order count with consistent revenue growth.
+- Classic pizzas dominated both in quantity and total revenue contribution.
+
+------------------------------------------------------------
+🕐 2. PEAK ORDER TIME
+------------------------------------------------------------
+- Most orders were placed between 12 PM and 2 PM, indicating strong lunchtime demand.
+- Evening hours (7 PM – 9 PM) also showed moderate order activity.
+
+------------------------------------------------------------
+📏 3. PIZZA SIZE PREFERENCES
+------------------------------------------------------------
+- Large size pizzas were the most ordered, followed by medium size.
+- Suggests customer preference for sharing-sized portions.
+
+------------------------------------------------------------
+🍕 4. CATEGORY-WISE PERFORMANCE
+------------------------------------------------------------
+- Classic category had the highest total sales and revenue.
+- Supreme pizzas followed, showing strong premium demand.
+- Veggie pizzas performed well among budget-friendly options.
+
+------------------------------------------------------------
+💰 5. TOP-SELLING PIZZA TYPES
+------------------------------------------------------------
+- The Classic Deluxe and Barbecue Chicken pizzas consistently ranked as top earners.
+- The top 3 pizzas together generated about 40% of total revenue.
+
+------------------------------------------------------------
+📈 6. REVENUE TREND
+------------------------------------------------------------
+- Cumulative revenue showed steady growth across the analyzed period.
+- No major sales dips, indicating stable performance and loyal customer base.
+
+------------------------------------------------------------
+🧠 7. BUSINESS RECOMMENDATIONS
+------------------------------------------------------------
+- Focus marketing campaigns during lunch hours (12–2 PM).
+- Promote Classic and Supreme categories as top sellers.
+- Introduce combo offers for Large pizzas to boost further sales.
+- Track performance of low-selling pizzas to optimize the menu.
+
+------------------------------------------------------------
+✅ CONCLUSION
+------------------------------------------------------------
+This SQL-based analysis transformed raw pizza sales data into actionable insights.
+It highlights strong customer preferences, steady revenue trends, and clear opportunities for business growth.
