@@ -1,8 +1,8 @@
 # 🍕 Pizza Sales SQL Analysis
 
 ### 📊 *Turning Data into Delicious Insights with SQL*
-
 ---
+📄 [Click here to view the full presentation (PDF)](https://github.com/your-username/your-repo-name/blob/main/presentation/pizza_sales_sql_presentation.pdf)
 
 ## 📘 Project Overview
 This project analyzes pizza sales data using **PostgreSQL** to uncover insights into customer behavior, product performance, and revenue patterns.  
